@@ -18,8 +18,8 @@ This project analyzes cryptocurrency market data using Microsoft Excel and inter
 - Slicers
 
 ## Files
-- Crypto_Dashboard_Task4.xlsx
-- Project_Report.pdf
+- Crypto_Dashboard_Tasks.xlsm
+- internship project report.pdf
 
 ## Author
 Snehitha
